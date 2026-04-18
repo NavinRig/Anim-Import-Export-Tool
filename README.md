@@ -1,0 +1,1 @@
+It allows to Import Export Animation in the Jason file format<img width="314" height="366" alt="AnimImportExport" src="https://github.com/user-attachments/assets/fb599464-65be-4bc0-af25-715240b75b23" />
